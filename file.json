@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 412514445,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 821943930,
+          "is_bot": false,
+          "first_name": "Vlad",
+          "last_name": "Morozov",
+          "username": "thelifeguard13",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 821943930,
+          "first_name": "Vlad",
+          "last_name": "Morozov",
+          "username": "thelifeguard13",
+          "type": "private"
+        },
+        "date": 1714900710,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
